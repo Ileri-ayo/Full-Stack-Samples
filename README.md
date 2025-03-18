@@ -1,2 +1,15 @@
-# Full-Stack-Samples
- 🚀 Senior Full Stack Developer | Passionate about building scalable web applications &amp; robust backend systems. 💻 Skilled in JavaScript, React, Node.js, Python, Django, SQL, MongoDB, AWS &amp; more. 📌 Interested in clean code, performance optimization, and system architecture. 🔍 Always learning &amp; exploring new technologies!
+Hi, I'm Ileriayo Gbelepawo 👋  
+🚀 **Senior Full Stack Developer** | Passionate about scalable web applications  
+
+## 🌟 Technologies & Skills  
+- **Frontend:** React, Vue.js, HTML, CSS, JavaScript  
+- **Backend:** Node.js, Express, Python, Django  
+- **Databases:** SQL, MongoDB  
+- **Cloud:** AWS, Firebase  
+- **Tools:** Git, Docker, CI/CD  
+
+## 📌 About Me  
+I specialize in designing and developing high-performance web applications. Passionate about **clean code**, **performance optimization**, and **scalability**.  
+
+## 📂 Projects (Coming Soon)  
+Stay tuned for sample projects showcasing my skills!
